@@ -1,4 +1,7 @@
-# gestop
+# gestop-old
+
+
+# NOTE : This repository is no longer maintained. Development is being continued on [ofnote/gestop](https://github.com/ofnote/gestop).
 
 Built on top of [mediapipe](https://github.com/google/mediapipe), this project aims to be a tool to interact with a computer through hand gestures. Out of the box, using this tool, it is possible to:
 
